@@ -1,4 +1,6 @@
 <?php
+
+
 function command($text,$telegram,$chat_id,$name,$first_name,$last_name,$menu)
 {
     if ($text == "/start") {
